@@ -10,7 +10,7 @@ This will interact with the user and give access to add and delete a list of tod
 - `CSS` for style.
 - `JAVASCRIPT` for manipulating the DOM.
 
-### What this [To-Do List](https://ipavanteja.github.io/make-to-do/) will do?
+### What this *To-Do List* will do?
 
 - Takes the user information and adds it to the list.
 - Users can add or delete list items at any time...
