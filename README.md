@@ -1,16 +1,16 @@
 # [Make To-Do](https://ipavanteja.github.io/make-to-do/)
 
-A **web application** page used to create your To-Do list.\
-This will intract with the user and give access to add and delete list of todo's.
+A **web application** page is used to create your To-Do list.\
+This will interact with the user and give access to add and delete a list of todos.
 **Check out** [here](https://ipavanteja.github.io/make-to-do/)
 
 ## Languages Uesd:
 
 - `HTML` for structuring the web page.
-- `CSS` for style and layout.
+- `CSS` for style.
 - `JAVASCRIPT` for manipulating the DOM.
 
 ### What this [To-Do List](https://ipavanteja.github.io/make-to-do/) will do?
 
-- Takes the user information and add it to list.
-- User can add or delete list iteams any time..
+- Takes the user information and adds it to the list.
+- Users can add or delete list items at any time...
